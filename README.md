@@ -1,9 +1,9 @@
 # 👊🏻 Riot Games Main Page Mirroring
-- Official URL : https://www.riotgames.com/ko
-- Technology : Bootstrap, Django
+- ***Official URL*** : https://www.riotgames.com/ko
+- ***Technology*** : Bootstrap, Django
 
 ## 📅 Development Period and Plan
-- Start Date : 04/04/2025 ~
+- ***Start Date*** : 04/04/2025 ~
   - ***Login/out, Register Function***
     - Implementation : 04.04.Fri
   - ***Main page***
