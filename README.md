@@ -4,8 +4,8 @@
 
 ## 📅 Development Period and Plan
 - Start Date : 04/04/2025 ~
+  - ***Login/out, Register Function***
+    - Implementation : 04.04.Fri
   - ***Main page***
     - Analysis : 04.04.Fri
-    - Implementation : 04.04.Fri ~ 04.05. Sun
-  - ***Login/out, Register Function***
-    - Implementation : 04.05. Sun
+    - Implementation : 04.07.Mon ~ 04.11.Fri
